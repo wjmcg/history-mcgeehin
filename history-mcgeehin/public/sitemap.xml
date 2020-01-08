@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://history.mcgeehin.com/docs/irish-history/test_irl/</loc>
+  </url>
+  
+  <url>
+    <loc>http://history.mcgeehin.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://history.mcgeehin.com/docs/</loc>
+  </url>
+  
+  <url>
+    <loc>http://history.mcgeehin.com/docs/family-history/</loc>
+  </url>
+  
+  <url>
+    <loc>http://history.mcgeehin.com/posts/test_post/</loc>
+  </url>
+  
+  <url>
+    <loc>http://history.mcgeehin.com/docs/family-history/test_doc/</loc>
+  </url>
+  
+  <url>
+    <loc>http://history.mcgeehin.com/docs/irish-history/</loc>
+  </url>
+  
+  <url>
+    <loc>http://history.mcgeehin.com/posts/</loc>
+  </url>
+  
+  <url>
+    <loc>http://history.mcgeehin.com/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>http://history.mcgeehin.com/</loc>
+  </url>
+  
+</urlset>
