@@ -11,17 +11,6 @@
     
     
     <item>
-      <title>-- Format Examples --</title>
-      <link>http://history.mcgeehin.com/docs/irish-history/test_irl/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://history.mcgeehin.com/docs/irish-history/test_irl/</guid>
-      <description>LEft Normal text.Right In italics.Section A In bold.
-Section B Numbered
- One Two Three Four  </description>
-    </item>
-    
-    <item>
       <title>Hi there!</title>
       <link>http://history.mcgeehin.com/posts/test_post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -31,15 +20,13 @@ Section B Numbered
     </item>
     
     <item>
-      <title>Introduction</title>
-      <link>http://history.mcgeehin.com/docs/family-history/test_doc/</link>
+      <title>‘Mac’ McGeehin in WWII</title>
+      <link>http://history.mcgeehin.com/docs/family-history/mac-wwii/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://history.mcgeehin.com/docs/family-history/test_doc/</guid>
-      <description>Intro Content
-Title Level 2 Content
-Example Map In any map go to the menu button and &amp;ldquo;Share or embed map&amp;rdquo; and make a medium embed.
-</description>
+      <guid>http://history.mcgeehin.com/docs/family-history/mac-wwii/</guid>
+      <description>‘Mac’ McGeehin in WWII Royal Army Medical Corps
+Cyril McGeehin was born at 166 Exeter Street Bradford on October 22nd 1913. Known in the family as ‘Mac’ he married Dorothy Osbourn (‘Bobbie’) at St John’s Church, Moor Allerton, Leeds on 2nd July 1942, after enlisting and presumably in anticipation of service abroad. She was 23 and without rank or profession, he was 28 and a pharmacist (though also qualified as an optician).</description>
     </item>
     
   </channel>

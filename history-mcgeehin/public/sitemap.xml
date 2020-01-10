@@ -3,10 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://history.mcgeehin.com/docs/irish-history/test_irl/</loc>
-  </url>
-  
-  <url>
     <loc>http://history.mcgeehin.com/categories/</loc>
   </url>
   
@@ -16,22 +12,17 @@
   
   <url>
     <loc>http://history.mcgeehin.com/docs/family-history/</loc>
+    <lastmod>2020-01-08T21:54:16+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://history.mcgeehin.com/posts/test_post/</loc>
-  </url>
-  
-  <url>
-    <loc>http://history.mcgeehin.com/docs/family-history/test_doc/</loc>
-  </url>
-  
-  <url>
-    <loc>http://history.mcgeehin.com/docs/irish-history/</loc>
+    <lastmod>2020-01-08T21:54:16+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://history.mcgeehin.com/posts/</loc>
+    <lastmod>2020-01-08T21:54:16+00:00</lastmod>
   </url>
   
   <url>
@@ -40,6 +31,11 @@
   
   <url>
     <loc>http://history.mcgeehin.com/</loc>
+    <lastmod>2020-01-08T21:54:16+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://history.mcgeehin.com/docs/family-history/mac-wwii/</loc>
   </url>
   
 </urlset>
