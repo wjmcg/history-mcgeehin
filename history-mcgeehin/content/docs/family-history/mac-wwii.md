@@ -23,12 +23,11 @@ During the Second World War Mac enlisted on 16<sup>th</sup> April 1942 aged 28 i
 
 This is certified as being a true copy of a testimonial given by the Q.M. 22.GEN.HOSP (Quarter Master) on 19<sup>th</sup> June 1946. The National Archives show that war diaries of 22 BGH cease on 30/6/46 and the historical files close at the end of the following month. Mac’s official release on 1st August 1946 could have been more on compassionate grounds associated with the expected birth of John (that occurred on 16th August 1946) than the administration of 22 BGH as a unit.
 
-{{< columns >}}
 Mac spoke little of his wartime activities but he did say he was involved with the health of prisoners of war as well as British soldiers and with the many casualties from the battles to take Monte Cassino in 1944. He was involved in the treatment of soldiers that has encountered enemy flame throwers. For several months the army lost track of him after the end of the war whilst he was in Rome. This time was used, amongst other things, with church organ lessons. There was a chance meeting of the whole family with a former army colleague (who looked a bit of a ‘spiv’) in a Kentucky Fried Chicken restaurant in London (Piccadilly Circus) around 1960. Bobbie was most put out by Mac’s deep conversation. There had apparently been some trading in Rome and in Cyril’s case the proceeds were used to purchase the Longines ‘military’ wristwatch shown in the photograph that he used until the day he died. 
-<--->
 
+{{< columns >}}
 ![Longinines Watch](/20200110_111233_resized.jpg)
-
+<--->
 {{< /columns >}}
 
 # Wartime Service
