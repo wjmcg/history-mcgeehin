@@ -1,25 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Irish History on McGeehin History</title>
-    <link>http://history.mcgeehin.com/docs/irish-history/</link>
-    <description>Recent content in Irish History on McGeehin History</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="http://history.mcgeehin.com/docs/irish-history/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>-- Format Examples --</title>
-      <link>http://history.mcgeehin.com/docs/irish-history/test_irl/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://history.mcgeehin.com/docs/irish-history/test_irl/</guid>
-      <description>LEft Normal text.Right In italics.Section A In bold.
-Section B Numbered
- One Two Three Four  </description>
-    </item>
-    
-  </channel>
-</rss>
