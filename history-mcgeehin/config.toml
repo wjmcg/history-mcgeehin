@@ -2,7 +2,7 @@
 # Always put it on the top of the configuration file, otherwise it won't work
 googleAnalytics = "UA-156016757-1"
 
-baseURL = "http://history.mcgeehin.com/"
+baseURL = "https://history.mcgeehin.com/"
 languageCode = "en-us"
 title = "McGeehin History"
 theme = "hugo-book"
